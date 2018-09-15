@@ -1,0 +1,15 @@
+{
+    "window.zoomLevel": 3,
+    "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "Monokai",
+    "files.encoding": "utf8",
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "newUntitledFile",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "workbench.statusBar.feedback.visible": false,
+<<<<<<< HEAD
+}
+=======
+    "python.linting.pylintEnabled": false,
+}
+>>>>>>> parent of 4083687... Second commit
